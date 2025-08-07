@@ -1,0 +1,27 @@
+Yoshitha Mudulodu    Email: yoshitha4589@gmail.com    Mobile: +1(669)-399-4052
+Milpitas, CA 95035
+
+SUMMARY
+Results-driven Business Analyst with over 5 years of experience driving business growth through data-informed decision making, leveraging advanced SQL skills, ETL expertise, and proficiency in Python. With a strong background in Agile methodologies, I excel at analyzing complex business challenges and developing actionable insights using Business Intelligence tools, including Tableau, Power BI, and Looker. My expertise in data pipeline automation, statistical modeling, and forecasting enables me to deliver scalable solutions that drive business value. With a proven track record of collaborating with stakeholders to enable self-service BI and ad hoc reporting, I am well-positioned to drive business success in fast-paced industries such as financial services, healthcare, and supply chain.
+
+SKILLS
+Programming & Scripting: SQL, Python, R, VBA, Java
+BI & Data Visualization Tools: Tableau, Qlik Sense, Power BI
+Data Analysis & Modeling: Statistical Analysis, Predictive Modeling, Data Mining, Regression, Hypothesis Testing, A/B Testing, Forecasting (ARIMA), Time Series Analysis
+Data Engineering & Pipelines: ETL Development (SSIS, SQL), Data Pipeline Automation, Azure Data Factory
+Databases & Data Warehousing: SQL Server, MySQL, Snowflake, Data Lake Table Structuring, Dimensional Modeling
+Cloud & Big Data Tools: Databricks, Azure, AWS (S3, Redshift)
+Reporting & Automation: Ad Hoc Reporting, Report Automation, KPI Development, Excel Macros, Power Query
+Collaboration & Project Tools: JIRA, Confluence, GitHub, Stakeholder Communication, Cross-functional Team Collaboration
+
+WORK EXPERIENCE
+CERTIFICATIONS
+
+- Google Data Analytics (Coursera)
+- Excel for Business (Coursera)
+
+23
+
+EDUCATION
+Data Analyst– LPL Financial, CA, USA                                                                                                                   July 2023 – Present
+Data Analyst– Elevance Health, VA, USA                                                                                                       May 2022 – June 2023

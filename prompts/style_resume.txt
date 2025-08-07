@@ -1,0 +1,49 @@
+# style_resume.txt – v1.3, updated 2025-07-28
+
+# RESUME STRUCTURE
+Each resume must include the following sections in the exact order:
+SUMMARY
+SKILLS
+WORK EXPERIENCE
+CERTIFICATIONS
+EDUCATION
+
+# FORMATTING RULES
+- Use standard bullet format: "-" or "•"
+- Start each bullet with a strong action verb
+- No paragraphs in WORK EXPERIENCE, only bullets
+- Always preserve all original job titles and companies
+- Never merge or hallucinate work history
+- Avoid broken headers like "W\nORK EXPERIENCE"
+- Bullet count per job: Minimum 6, ideally 6–8 bullets
+- Do not fabricate experience or education
+- Never include hallucinated job titles like "❗ Business Analyst"
+
+# WORK EXPERIENCE RULES
+- If job title from JD matches candidate's title, mention in WORK EXPERIENCE
+- Otherwise, mention job title in SUMMARY
+- Match skills/tools from JD where relevant
+- If ATS feedback is given, prioritize missing keywords and sections
+- If WORK EXPERIENCE is present in base resume, preserve original structure
+- If ATS bullet generation fails, fallback to base resume's WORK EXPERIENCE section
+
+# CERTIFICATIONS / EDUCATION
+- If ATS reports missing CERTIFICATIONS or EDUCATION, inject:
+    CERTIFICATIONS:
+    - Google Data Analytics (Coursera)
+    - Excel for Business (Coursera)
+
+    EDUCATION:
+    Bachelor of Engineering, Computer Science  
+    Anna University, India  
+    Graduated: 2020
+
+# FINAL VALIDATION CHECK
+Ensure the final output includes all sections in correct order.
+Ensure personal info (name, email, phone) is preserved if present.
+Make the output suitable for direct DOCX export with no formatting errors.
+
+# DEBUGGING / PLACEHOLDER HANDLING
+- Placeholder bullets like "- Additional relevant responsibility 1" may be inserted if needed to pad.
+- These should be removed by a cleanup pass (`remove_placeholder_bullets`).
+- Print clean resume preview in debug mode if enabled.

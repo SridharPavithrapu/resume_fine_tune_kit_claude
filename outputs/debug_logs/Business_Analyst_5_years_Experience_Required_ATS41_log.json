@@ -1,0 +1,36 @@
+{
+  "job_title": "Business Analyst (5 years+ Experience Required)",
+  "extracted_title": "Business Analyst (5 years+ Experience Required)",
+  "final_score": 41,
+  "attempts": [
+    {
+      "attempt": 1,
+      "success": true,
+      "score": 41,
+      "resume_length": 2141,
+      "keywords_found": 35,
+      "error": null,
+      "processing_time": 36.089524030685425
+    },
+    {
+      "attempt": 2,
+      "success": true,
+      "score": 0,
+      "resume_length": 1981,
+      "keywords_found": 35,
+      "error": null,
+      "processing_time": 54.65891194343567
+    },
+    {
+      "attempt": 3,
+      "success": true,
+      "score": 0,
+      "resume_length": 1900,
+      "keywords_found": 35,
+      "error": null,
+      "processing_time": 57.802876234054565
+    }
+  ],
+  "processing_time": 154.5760657787323,
+  "timestamp": "2025-08-06 20:50:04"
+}

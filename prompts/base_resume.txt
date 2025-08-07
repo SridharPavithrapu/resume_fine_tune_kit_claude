@@ -1,0 +1,55 @@
+Yoshitha Mudulodu                                                                                                               Email: yoshitha4589@gmail.com  
+Milpitas, CA 95035                                                                                                                       Mobile: +1(669)-399-4052 
+
+SUMMARY 	 
+Data Analyst with over 5 years of experience delivering data-driven insights through advanced SQL, dashboard development, and data pipeline automation. Proven ability to build Tableau dashboards from scratch, structure data lake tables, and create scalable ETL solutions using SSIS and Python. Skilled in translating business challenges into actionable analytics using statistical modeling, forecasting, and data mining techniques. Strong background in stakeholder collaboration, ad hoc reporting, and self-service BI enablement across financial services, healthcare, and supply chain industries. Hands-on experience with Power BI, Looker, and familiarity with Qlik Sense and Databricks.
+
+SKILLS 	 
+Programming & Scripting: SQL, Python, R, VBA, Java
+BI & Data Visualization Tools: Tableau, Qlik Sense, Power BI
+Data Analysis & Modeling: Statistical Analysis, Predictive Modeling, Data Mining, Regression, Hypothesis Testing, A/B Testing, Forecasting (ARIMA), Time Series Analysis
+Data Engineering & Pipelines: ETL Development (SSIS, SQL), Data Pipeline Automation, Azure Data Factory
+Databases & Data Warehousing: SQL Server, MySQL, Snowflake, Data Lake Table Structuring, Dimensional Modeling
+Cloud & Big Data Tools: Databricks, Azure, AWS (S3, Redshift)
+Reporting & Automation: Ad Hoc Reporting, Report Automation, KPI Development, Excel Macros, Power Query
+Collaboration & Project Tools: JIRA, Confluence, GitHub, Stakeholder Communication, Cross-functional Team Collaboration
+
+WORK EXPERIENCE 	 
+
+Data Analyst- LPL Financial, CA, USA                                                                                                                   July 2023 - Present 
+¥ Designed and deployed 9+ Tableau dashboards from scratch to track compliance metrics, risk exposure, and business performance, helping senior leadership make data-driven decisions.
+¥ Wrote complex SQL queries using CTEs, window functions, and aggregations in SQL Server and Snowflake to extract, transform, and analyze financial and audit data.
+¥ Built and maintained automated ETL pipelines using SSIS and SQL to streamline monthly and quarterly regulatory reporting workflows.
+¥ Structured data lake tables and dimensional models to support scalable self-service BI and reporting for internal audit and compliance teams.
+¥ Utilized Qlik Sense to deliver ad hoc dashboards and financial overviews, leveraging set analysis and custom expressions to support compliance investigations and internal reviews.
+¥ Created KPI-driven reporting frameworks and visual alerting mechanisms in Tableau and Qlik, leading to a 25% improvement in issue detection and resolution time.
+¥ Automated Excel-based reporting workflows using advanced formulas and macros, increasing operational efficiency and reducing manual effort by 40%.
+¥ Collaborated with cross-functional teams to define reporting requirements, validate datasets, and ensure successful delivery of business insights across stakeholder groups.
+
+Data Analyst- Elevance Health, VA, USA                                                                                                       May 2022 - June 2023 
+¥ Developed and managed Qlik Sense dashboards for provider performance, claims volume, and care delivery tracking-enhancing visibility and stakeholder decision-making.
+¥ Wrote advanced SQL queries in Snowflake and SQL Server to support recurring and ad hoc reporting on healthcare utilization, billing, and compliance.
+¥ Built automated data pipelines in SQL and Python to improve data refresh rates and reduce manual reporting errors by 200+ records per month.
+¥ Modeled and structured data warehouse tables to support ingestion from various clinical systems into unified BI layers for scalable reporting.
+¥ Applied predictive modeling and statistical techniques (regression, forecasting) to anticipate patient trends and support accurate budget planning.
+¥ Used Qlik's associative engine to enable self-service data exploration in clinical datasets and implemented section access to manage PHI-level visibility across teams.
+¥ Partnered with business stakeholders to define data quality rules, ensure HIPAA compliance, and deliver analytics outputs that supported care optimization.
+¥ Participated in user testing and report validation cycles to ensure successful handoff and long-term report usability.
+
+Junior Data Analyst - Cognizant Technology Solutions Pvt. Ltd, Pune, India                               November 2019 - July 2021 
+¥ Created Tableau dashboards from scratch to visualize procurement metrics, inventory trends, and logistics KPIs-reducing report turnaround time by 30% and enhancing supply chain transparency.
+¥ Developed and optimized SQL queries to analyze procurement, shipment delays, and warehouse throughput, contributing to a 12% reduction in logistics cancellation costs.
+¥ Built automated ETL pipelines using SSIS and SQL Server to extract and transform supply chain data from SAP, flat files, and internal databases for real-time analytics.
+¥ Supported business operations reporting by developing parameterized SQL views and reusable datasets consumed by Tableau dashboards.
+¥ Collaborated with cross-functional teams including procurement, warehouse, and analytics to define business requirements and deliver insightful reports for SLA tracking and process optimization.
+¥ Conducted data quality checks and root cause analysis to ensure reporting accuracy and resolve inconsistencies in logistics data across Oracle and SQL Server.
+¥ Participated in Agile sprints to support evolving business needs and implement scalable self-service BI solutions that empowered non-technical users.
+
+Certifications:
+¥ Google Data Analytics Professional Certification Ð Google
+¥ Excel for Business Ð Coursera
+¥ AI-Driven Analytics Simulation Ð Tata Consultancy Services
+
+EDUCATION 	 
+   Master of Science in Computer Science, University of Bridgeport, Connecticut                                August 2021 - May 2023 
+   Bachelor of Technology in Computer Science & Engineering, KMIT, India                                           August 2015 - May 2019 
